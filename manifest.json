@@ -1,0 +1,38 @@
+{
+  "name": "Nurul Hiddayah",
+  "short_name": "nHiddayah",
+  "start_url": "https://nhiddayah.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Kumpulan template, tutorial, trik &amp; tips dan konten menarik lainnya.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-9MXi7Ocyq5E/Xq3aOlF0ZOI/AAAAAAAAACY/T9QZU34qpA48gmmtFISSqpCpGz1IyF6_ACNcBGAsYHQ/s48/nurul-hiddayah.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-9MXi7Ocyq5E/Xq3aOlF0ZOI/AAAAAAAAACY/T9QZU34qpA48gmmtFISSqpCpGz1IyF6_ACNcBGAsYHQ/s72/nurul-hiddayah.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-9MXi7Ocyq5E/Xq3aOlF0ZOI/AAAAAAAAACY/T9QZU34qpA48gmmtFISSqpCpGz1IyF6_ACNcBGAsYHQ/s96/nurul-hiddayah.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-9MXi7Ocyq5E/Xq3aOlF0ZOI/AAAAAAAAACY/T9QZU34qpA48gmmtFISSqpCpGz1IyF6_ACNcBGAsYHQ/s152/nurul-hiddayah.png",
+    "sizes": "152x152",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-9MXi7Ocyq5E/Xq3aOlF0ZOI/AAAAAAAAACY/T9QZU34qpA48gmmtFISSqpCpGz1IyF6_ACNcBGAsYHQ/s180/nurul-hiddayah.png",
+    "sizes": "180x180",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-9MXi7Ocyq5E/Xq3aOlF0ZOI/AAAAAAAAACY/T9QZU34qpA48gmmtFISSqpCpGz1IyF6_ACNcBGAsYHQ/s192/nurul-hiddayah.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-9MXi7Ocyq5E/Xq3aOlF0ZOI/AAAAAAAAACY/T9QZU34qpA48gmmtFISSqpCpGz1IyF6_ACNcBGAsYHQ/s512/nurul-hiddayah.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
