@@ -8,8 +8,9 @@
   </a>
 </p>
 
-# nHiddayah
+# Personal blog by Nurul Hiddayah
 
-[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/surmon-china/surmon.me/Deploy?style=for-the-badge&label=Deploy)](https://github.com/nhiddayah/Javascript/actions?query=workflow:%22Deploy%22)
+[![Visit My Personal Blog](https
+[![GitHub Workflow Status](https://github.com/nhiddayah/Javascript/blob/master/asset/Image%20File/visit-blog.jpg?raw=true?style=for-the-badge&label=Deploy)](https://github.com/nhiddayah/Javascript/actions?query=workflow:%22Deploy%22)
 
 **Online site:** https://nhiddayah.blogspot.com/
